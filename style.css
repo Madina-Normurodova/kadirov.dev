@@ -1,0 +1,58 @@
+.header{
+    background-color: #80007f;
+    padding: 1.5rem;
+    font-size: x-large;
+    /* border-radius: 0, 0, 10px, 10px; */
+}
+.pectures {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+.home{
+    padding:5rem 0 4rem 0;
+}
+.wrapper{
+    font-weight: 300;
+    font-size: 3rem;
+}
+.middle{
+    background-color: #80007f;
+    padding:2rem 0 7rem 0;
+    margin: 4rem 0;
+}
+.cards{
+    background-color: #fff;
+    margin-right: 0.5rem;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.3rem;
+    border-radius: 6px;
+}
+.cards i{
+    font-size: 2.5rem
+}
+.cards p{
+    font-weight: 500;
+    transform: translateY(6px);
+}
+
+/* .words{
+    display: flex;
+    margin-left: 20%;
+    width: 50%;
+    text-align: right;
+} */
+.students{
+    background: #80007f;
+    height: 90px;
+}
+.slider .carousel{
+    border: 2px solid #000;
+}
+.slider-btn{
+    width: 3rem;
+    height: 3rem;
+}
